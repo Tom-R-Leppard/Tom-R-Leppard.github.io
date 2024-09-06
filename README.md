@@ -35,7 +35,10 @@ I study how social inequalities influence young people's access to and returns t
 - Asynchronous - Social Network Analysis
 ### Example Materials
 #### Two Mode Networks
-Harry Potter Activity on mapping two mode networks and projecting the duality between characters and groups in Harry Potter. 
+Harry Potter Activity on mapping two mode networks and projecting the duality between characters and groups in Harry Potter. I collected the data from the [Harry Potter Wiki](https://harrypotter.fandom.com/wiki/Main_Page).
+First, mapping characters' relationships to groups in the serries. 
 ![Harry Potter Two Mode](/asset/HP_Two_Mode.png)
-![Projection 1: Characters](/asset/Projection1_Characters_groups_Walktrap)
-![Projection 2: Groups](/asset/Projection2_Groups_Characters_Walktrap)
+Second, I have studnets take a look at the symbolic connections between students who share group affiliations. 
+![Projection 1: Characters](/asset/Projection1_Characters_groups_Walktrap.png)
+Third, I have student stake a look at the symbolic connections between groups who share students. An obvious "good" and "bad" divide here!  
+![Projection 2: Groups](/asset/Projection2_Groups_Characters_Walktrap.png)
