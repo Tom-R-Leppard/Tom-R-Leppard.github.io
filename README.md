@@ -27,10 +27,10 @@ I study how social inequalities influence young people's access to and returns t
 
 ## Teaching
 ### Substantive 
-SOC 202 Introduction to Sociology
-SOC 205 Jobs and Work
+- SOC 202 Introduction to Sociology
+- SOC 205 Jobs and Work
 
 ### Methods
-Peer Scholars Program - Social Network Analysis
-Asynchronous - Social Network Analysis
+- Peer Scholars Program - Social Network Analysis
+- Asynchronous - Social Network Analysis
 
