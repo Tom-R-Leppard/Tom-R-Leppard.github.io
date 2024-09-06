@@ -33,4 +33,9 @@ I study how social inequalities influence young people's access to and returns t
 ### Methods
 - Peer Scholars Program - Social Network Analysis
 - Asynchronous - Social Network Analysis
-
+### Example Materials
+#### Two Mode Networks
+Harry Potter Activity on mapping two mode networks and projecting the duality between characters and groups in Harry Potter. 
+![Harry Potter Two Mode](/assets/img/HP_Two_Mode.png)
+![Projection 1: Characters](/assets/img/Projection1_Characters_groups_Walktrap)
+![Projection 2: Groups](/assets/img/Projection2_Groups_Characters_Walktrap)
