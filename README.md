@@ -20,7 +20,7 @@ I study how social inequalities influence young people's access to and returns t
 7. [Athlete activism and the role of personal and professional positionality](https://journals.sagepub.com/doi/10.1177/10126902211073907)
 8. [Do Status Characteristic-Based Stereotypes Influence Opportunities in Monoracial Settings?](https://journals.sagepub.com/doi/10.1177/21582440241269929)
 9. [A shame of inches](https://onlinelibrary.wiley.com/doi/10.1111/ssqu.13117)
-10. “The White House’s Response to Black Athletes’ Protests
+10. The White House’s Response to Black Athletes’ Protests
 
 ### Other Publications
 11. [Pandemic Job Separation and Psychological Distress](https://journals.sagepub.com/doi/10.1177/23294965231183420)
