@@ -1,7 +1,7 @@
 # Sociologist, Postdoctoral Scholar, Research Scientist
-I am Postdoctoral Scholar at the Data Science Academy at North Carolina State University. 
+I am a Postdoctoral Scholar at the Data Science Academy at North Carolina State University.
 
-I study how social inequalities influence young people's access to and returns to social capital in networks, and across social domains like school, family, and mentorship. The main theme of my research centres the role of interactions, and the distribution of resources is framed by social inequality and how this, in turn, impacts professional opportunities for people. My current research focuses how this impacts adolescents as they transition into adulthood. In line with my focus on interpersonal relationships and social capital, I also study collaboration networks in music, and positional segregation (A.K.A stacking) in sports.
+I study how social inequalities influence young people’s access to and returns from social capital in networks, and across social domains such as school, family, and mentorship. The main theme of my research centers on how professional opportunities are shaped by the distribution of tangible and intabgile resources available to people through social connection and embeddedness. My current research focuses on how these factors affect adolescents as they transition into adulthood. In line with my focus on interpersonal relationships and social capital, I also study collaboration networks in music and positional segregation (a.k.a. stacking) in sports.
 
 - [Google Scholar](https://scholar-google-com.prox.lib.ncsu.edu/citations?user=VFI_6lAAAAAJ&hl=en&oi=sra)
 
