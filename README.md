@@ -36,7 +36,7 @@ I study how social inequalities influence young people’s access to and returns
   
 ### Example Teaching Material
 #### Two Mode Networks
-This is an activiy I created using Harry Potter data. It is designed to teach studets how to map two mode networks and projecting the duality between characters and groups. I collected the data from the [Harry Potter Wiki](https://harrypotter.fandom.com/wiki/Main_Page).
+This is an activiy I created using Harry Potter data. It is designed to teach students how to map two mode networks and projecting the duality between characters and groups. I collected the data from the [Harry Potter Wiki](https://harrypotter.fandom.com/wiki/Main_Page).
 
 First, mapping characters' relationships to groups in the serries. 
 ![Harry Potter Two Mode](/asset/HP_Two_Mode.png)
