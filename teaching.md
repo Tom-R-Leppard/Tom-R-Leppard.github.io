@@ -1,3 +1,5 @@
+[About](https://Tom-R-Leppard.github.io/) | [Research](/research.md) | [Teaching](/teaching.md) | [CV](/cv.pdf) 
+
 # Teaching
 ## Substantive 
 - SOC 202 Introduction to Sociology
