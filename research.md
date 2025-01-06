@@ -1,4 +1,5 @@
 # Research
+[About](https://Tom-R-Leppard.github.io/) | [Research](/research.md) | [Teaching](/teaching.md) | [CV](/cv.pdf) 
 ## Adolescence and Social Capital 
 1. [Intersectional bonds: Delinquency, arrest, and changing family social capital during adolescence](https://onlinelibrary.wiley.com/doi/10.1111/jomf.13029)
 2. [Exploring Gendered Stereotypes: Sports Participation and Adolescent Closeness to Mothers](https://www.emerald.com/insight/content/doi/10.1108/S1476-285420230000019003/full/html)
