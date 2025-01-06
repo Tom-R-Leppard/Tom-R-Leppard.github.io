@@ -1,9 +1,9 @@
 # Sociologist, Postdoctoral Scholar, Data Scientist
 [About](https://Tom-R-Leppard.github.io/) | [Research](/research.md) | [Teaching](/teaching.md) | [CV](/cv.pdf) 
 
-I am interested in how social inequalities influence people’s access to and returns from social capital in networks and across social domains such as school, family, and mentorship. Professional opportunities are shaped by the distribution of tangible and intangible resources available to people through social connection and embeddedness. My current research focuses on how these factors contribute to enduring social inequalities across multiple social domains and contexts.
+I am interested in how social inequalities affect individuals' access to and returns from social capital within networks across various domains, such as family, work, and mentorship. Professional opportunities are shaped by the distribution of both tangible and intangible resources that people gain through social connections and embeddedness. My current research focuses on how these factors contribute to persistent social inequalities across different social contexts.
 
-In this effort I leverage domain-specific theories of inequality like family social capital, competition in creative ecologies, racial positional segregation in sports (stacking), and the leaky pipeline of STEM in higher education. To do this I have built expertise using multiple data types including social network data, longitudinal survey data, text data, and process data.
+To investigate this, I draw on domain-specific theories of inequality, including family social capital, competition in creative industries, racial positional segregation in sports (stacking), and the leaky pipeline in STEM education. My research utilizes a variety of data types, such as social network data, longitudinal survey data, text data, and process data.
 
 Let's connect: 
 - [X](https://x.com/LeppardTom)
