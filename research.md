@@ -3,7 +3,7 @@
 1. [Intersectional bonds: Delinquency, arrest, and changing family social capital during adolescence](https://onlinelibrary.wiley.com/doi/10.1111/jomf.13029)
 2. [Exploring Gendered Stereotypes: Sports Participation and Adolescent Closeness to Mothers](https://www.emerald.com/insight/content/doi/10.1108/S1476-285420230000019003/full/html)
 3. [Paternal Closeness in Adolescence: The Association of Sports and Gender](https://journals.humankinetics.com/view/journals/ssj/39/4/article-p401.xml)
-4. [The Ties That Bond?: Social Capital in Families] (https://www.elgaronline.com/edcollchap/book/9781802202373/book-part-9781802202373-26.xml)
+4. [The Ties That Bond?: Social Capital in Families](https://www.elgaronline.com/edcollchap/book/9781802202373/book-part-9781802202373-26.xml)
    
 ## Collaboration and Networks
 5. [Collaborating with Competitors: Exploring Network Mechanisms that Drive the Benefits of Collaboration in Music.](https://repository.lib.ncsu.edu/items/8da6b8ef-aeb7-4dfb-b602-3bff6228367b)
