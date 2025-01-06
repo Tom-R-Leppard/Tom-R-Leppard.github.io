@@ -6,6 +6,6 @@ I am interested in how social inequalities influence people’s access to and re
 In this effort I leverage domain-specific theories of inequality like family social capital, competition in creative ecologies, racial positional segregation in sports (stacking), and the leaky pipeline of STEM in higher education. To do this I have built expertise using multiple data types including social network data, longitudinal survey data, text data, and process data.
 
 Let's connect: 
-- [X, @LeppardTom](https://x.com/LeppardTom)
-- [LinkedIn, Tom R. Leppard](https://www.linkedin.com/in/tom-r-leppard-phd-a69b5b106/)
-- [Google Scholar](https://scholar-google-com.prox.lib.ncsu.edu/citations?user=VFI_6lAAAAAJ&hl=en&oi=sra)
+- [X - @LeppardTom](https://x.com/LeppardTom)
+- [LinkedIn - Tom R. Leppard](https://www.linkedin.com/in/tom-r-leppard-phd-a69b5b106/)
+- [Google Scholar - Tom R. Leppard](https://scholar.google.com/citations?user=VFI_6lAAAAAJ&hl=en&oi=ao)
