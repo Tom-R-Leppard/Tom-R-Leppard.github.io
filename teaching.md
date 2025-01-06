@@ -6,7 +6,7 @@
 - SOC 205 Jobs and Work
 
 ## Methods
-- DSA295 Introduciton to Network Analysis
+- DSA 295 Introduciton to Network Analysis
 - Peer Scholars Program - Social Network Analysis
 - Asynchronous - Social Network Analysis
   
