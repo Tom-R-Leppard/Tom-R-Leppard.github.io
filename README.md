@@ -1,5 +1,5 @@
 # Sociologist, Postdoctoral Scholar, Data Scientist
-[About](https://Tom-R-Leppard.github.io/) | [Research](/research.md) | [Teaching](/teaching.md) | [CV](/Tom Leppard_CV_Upload.pdf) 
+[About](https://Tom-R-Leppard.github.io/) | [Research](/research.md) | [Teaching](/teaching.md) | [CV](/cv.pdf) 
 
 I am interested in how social inequalities affect individuals' access to and returns from social capital within networks across various domains, such as family, work, and mentorship. Professional opportunities are shaped by the distribution of both tangible and intangible resources that people gain through social connections and embeddedness. My current research focuses on how these factors contribute to persistent social inequalities across different social contexts.
 
