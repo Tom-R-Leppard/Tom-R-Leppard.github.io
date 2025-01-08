@@ -1,4 +1,4 @@
-[About](https://Tom-R-Leppard.github.io/) | [Research](/research.md) | [Teaching](/teaching.md) | [Networks Tutorials in R](/network_tutorials.md) | [CV](/cv.pdf)
+[About](https://Tom-R-Leppard.github.io/) | [Research](/research.md) | [Teaching](/teaching.md) | [Network Tutorials](/network_tutorials.md) | [CV](/cv.pdf)
 
 # Wrangling and Transforming Network Data
 1. [Network Data Structures](/Network-Data-Structures_READING.html)
