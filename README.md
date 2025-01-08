@@ -1,9 +1,9 @@
 # Sociologist, Postdoctoral Scholar, Data Scientist
 [About](https://Tom-R-Leppard.github.io/) | [Research](/research.md) | [Teaching](/teaching.md) | [Network Tutorials](/network_tutorials.md) | [CV](/cv.pdf)
 
-I am interested in how social inequalities affect individuals' access to and returns from social capital within networks across various domains, such as family, work, and mentorship. Professional opportunities are shaped by the distribution of both tangible and intangible resources that people gain through social connections and embeddedness. My current research focuses on how these factors contribute to persistent social inequalities across different social contexts.
+I am interested in how social inequalities affect individuals' access to, and returns from, social capital within networks across various domains, such as family and various types of work. My current research focuses on how both tangible and intangible resources, gained through connections and embeddedness, influence people’s professional opportunities and contribute to persistent social inequalities.
 
-To investigate this, I draw on domain-specific theories of inequality including family social capital, competition in creative industries, racial positional segregation in sports (stacking), and the leaky pipeline in STEM education. My research utilizes a variety of data types such as social network, longitudinal survey, text, and process data.
+To investigate this, I draw on domain-specific theories including family social capital, competition in creative industries, racial positional segregation in sports (stacking), and the leaky pipeline in STEM education. My research utilizes a variety of data types such as social network, longitudinal survey, text, and process data.
 
 Let's connect: 
 - trleppar@ncsu.edu
