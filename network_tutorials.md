@@ -9,10 +9,11 @@
    
 ## Visualising Network Data
 5. [Basic Network Visualisation](/Visualisations_Basic.html)
+6. [Intermediate Network Visualisation](/Visualisations_intermediate.html)
    
 ## Analysing Network Data
-6. [People/Nodes in Networks]
-7. [Networks of People/Nodes]
-8. [Community Detection]
-9. [Duality in Networks](/Duality_Two-Mode-Network-Projection.html)
+7. [People/Nodes in Networks]
+8. [Networks of People/Nodes]
+9. [Community Detection]
+10. [Duality in Networks](/Duality_Two-Mode-Network-Projection.html)
 
