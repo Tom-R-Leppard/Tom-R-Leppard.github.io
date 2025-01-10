@@ -15,6 +15,6 @@
 ## Analysing Network Data
 8. [People/Nodes in Networks]
 9. [Networks of People/Nodes]
-10. [Community Detection]
+10. [Community Detection](/Community-Detection-in-Networks.html)
 11. [Duality in Networks](/Duality_Two-Mode-Network-Projection.html)
 
