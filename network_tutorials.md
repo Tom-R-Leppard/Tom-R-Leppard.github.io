@@ -4,7 +4,7 @@
 ## Wrangling and Transforming Network Data
 1. [Network Data Structures](/Network-Data-Structures_READING.html)
 2. [Cleaning Network Data](/Cleaning-Network-Data.html)
-3. [Cleaning Network Data - Sbgraphs](/Cleaning-Network-Data-2_Subgraphs.html)
+3. [Cleaning Network Data - Subgraphs](/Cleaning-Network-Data-2_Subgraphs.html)
 4. [Two Mode Networks](Harry-Potter_Two_Mode.html)
 5. [Two Mode Networks from an Edgelist](/Harry-Potter_Two_Mode-Edgelists.html)
    
