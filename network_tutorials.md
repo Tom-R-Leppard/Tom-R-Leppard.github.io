@@ -13,8 +13,9 @@
 7. [Intermediate Network Visualisation](/Visualisations_intermediate.html)
    
 ## Analysing Network Data
-8. [People in Networks - Measures of Centrality]
-9. [Networks of People - Network Descriptives]
-10. [Community Detection](/Community-Detection-in-Networks.html)
-11. [Duality in Networks](/Duality_Two-Mode-Network-Projection.html)
+8. [People in Networks - Measures of Centrality] - COMMING SOON
+9. [Networks of People - Network Descriptives] - COMMING SOON
+10. [Exponential Random Graph Modes] - COMMING SOON
+11. [Community Detection](/Community-Detection-in-Networks.html)
+12. [Duality in Networks](/Duality_Two-Mode-Network-Projection.html)
 
