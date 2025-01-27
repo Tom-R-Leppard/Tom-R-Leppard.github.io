@@ -13,8 +13,8 @@
 7. [Intermediate Network Visualisation](/Visualisations_intermediate.html)
    
 ## Analysing Network Data
-8. [People/Nodes in Networks]
-9. [Networks of People/Nodes]
+8. [People in Networks - Measures of Centrality]
+9. [Networks of People - Network Descriptives]
 10. [Community Detection](/Community-Detection-in-Networks.html)
 11. [Duality in Networks](/Duality_Two-Mode-Network-Projection.html)
 
