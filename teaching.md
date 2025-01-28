@@ -1,7 +1,7 @@
 [About](https://Tom-R-Leppard.github.io/) | [Research](/research.md) | [Teaching](/teaching.md) | [Network Tutorials](/network_tutorials.md) | [CV](/cv.pdf)
 
 # Teaching
-I love teaching! I seek to prodive every opportunity for a student to succeed in my classroom whether I am teaching sociology or data science. I strive for teaching and mentoring excellence with special interest in emphasising diversity throughout my teaching. I largely follow a student-centred teaching model (see the [ADAPT Model](https://datascienceacademy.ncsu.edu/courses/course-model/) I have co-built with NCSU DSA) which emphasises student agency and project-based learning. Please review this document for [evidence of my teaching effectiveness](/Effectivness_of_Teaching.pdf). Here is a list of my teaching experience. 
+I love teaching! I seek to prodive every opportunity for a student to succeed in my classroom whether I am teaching sociology or data science. I strive for teaching and mentoring excellence with special interest in emphasising diversity throughout my teaching. I largely follow a student-centred teaching model (see the [ADAPT model](https://datascienceacademy.ncsu.edu/courses/course-model/) I have co-developed at NCSU DSA) which emphasises student agency and project-based learning. Please review this document for [evidence of my teaching effectiveness](/Effectivness_of_Teaching.pdf). Here is a list of my teaching experience. 
 
 ## Sociology 
 - SOC 202 Introduction to Sociology
