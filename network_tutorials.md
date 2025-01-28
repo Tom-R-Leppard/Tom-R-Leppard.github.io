@@ -1,6 +1,8 @@
 [About](https://Tom-R-Leppard.github.io/) | [Research](/research.md) | [Teaching](/teaching.md) | [Network Tutorials](/network_tutorials.md) | [CV](/cv.pdf)
 
 # Network Tutorials
+Here I provide some tutorials that I provide my students and others interested in social network analysis in R. I desire to provide students with as many resources as possible and making these skills available for everyone. 
+
 ## Wrangling and Transforming Network Data
 1. [Network Data Structures](/Network-Data-Structures_READING.html)
 2. [Cleaning Network Data](/Cleaning-Network-Data.html)
