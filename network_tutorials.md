@@ -1,7 +1,7 @@
 [About](https://Tom-R-Leppard.github.io/) | [Research](/research.md) | [Teaching](/teaching.md) | [Network Tutorials](/network_tutorials.md) | [CV](/cv.pdf)
 
 # Network Tutorials
-Here I provide some tutorials that I provide my students and others interested in social network analysis in R. I desire to provide students with as many resources as possible and making these skills available for everyone. 
+Here are some tutorials that I wrote for my students and others interested in social network analysis in R. I desire to provide students with as many resources as possible and I beleive in making computational skills accessible to everyone. You'll see that I use some fun data (e.g. Harry Potter, Grime etc.) to teach network principles and R skills. 
 
 ## Wrangling and Transforming Network Data
 1. [Network Data Structures](/Network-Data-Structures_READING.html)
