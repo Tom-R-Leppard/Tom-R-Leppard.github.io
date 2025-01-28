@@ -1,7 +1,7 @@
 [About](https://Tom-R-Leppard.github.io/) | [Research](/research.md) | [Teaching](/teaching.md) | [Network Tutorials](/network_tutorials.md) | [CV](/cv.pdf)
 
 # Teaching
-I love teaching! I strive to prodive every opportunity for a student to succeed in my classroom whether I am teaching sociology or data science. Please review this document for [evidence of my teaching effectiveness](/evidence of teaching effectiveness.pdf). Here is a list of my teaching experience. 
+I love teaching! I strive to prodive every opportunity for a student to succeed in my classroom whether I am teaching sociology or data science. Please review this document for [evidence of my teaching effectiveness](/Effectivness_of_Teaching.pdf). Here is a list of my teaching experience. 
 
 ## Sociology 
 - SOC 202 Introduction to Sociology
