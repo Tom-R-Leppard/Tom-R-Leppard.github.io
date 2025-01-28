@@ -1,11 +1,11 @@
 [About](https://Tom-R-Leppard.github.io/) | [Research](/research.md) | [Teaching](/teaching.md) | [Network Tutorials](/network_tutorials.md) | [CV](/cv.pdf)
 
 # Teaching
-## Substantive 
+## Sociology 
 - SOC 202 Introduction to Sociology
 - SOC 205 Jobs and Work
 
-## Methods
+## Data Science
 - DSA 295 Introduciton to Network Analysis
 - Peer Scholars Program - Social Network Analysis
 - Asynchronous - Social Network Analysis
