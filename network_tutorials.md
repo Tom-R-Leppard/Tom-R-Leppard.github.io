@@ -11,6 +11,7 @@
 ## Visualising Network Data
 6. [Basic Network Visualisation](/Visualisations_Basic.html)
 7. [Intermediate Network Visualisation](/Visualisations_intermediate.html)
+8. [Advanced Visualisation - Dynamic Networks] - COMMING SOON
    
 ## Analysing Network Data
 8. [People in Networks - Measures of Centrality] - COMMING SOON
