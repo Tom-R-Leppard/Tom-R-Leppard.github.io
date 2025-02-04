@@ -1,4 +1,4 @@
-[About](https://Tom-R-Leppard.github.io/) | [Research](/research.md) | [Teaching](/teaching.md) | [Free Network Tutorials](/network_tutorials.md) | [CV](/cv.pdf)
+[About](https://Tom-R-Leppard.github.io/) | [Research](/research.md) | [Teaching](/teaching.md) | [Network Tutorials](/network_tutorials.md) | [CV](/cv.pdf)
 
 # Research
 Research is a deep passion of mine, particularly in the areas of social inequality, social capital, and social networks. My work explores how spcoal capital, inequality, and networks influence opportunities and outcomes in various contexts. As someone interested in resources and networks, I love building scholarly communities. Much of my work is collaborative! Please refer to my [CV](/cv.pdf) for an updated overview of my research agenda. 
