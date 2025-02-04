@@ -1,16 +1,17 @@
 [About](https://Tom-R-Leppard.github.io/) | [Research](/research.md) | [Teaching](/teaching.md) | [Network Tutorials](/network_tutorials.md) | [CV](/cv.pdf)
 
 # Teaching
- I love teaching! Here is a list of my teaching experience so far. I strive for teaching and mentoring excellence. I largely follow a student-centred teaching model (see the [ADAPT model](https://datascienceacademy.ncsu.edu/courses/course-model/) I have co-developed at NCSU DSA) which emphasises student agency and project-based learning. Please review this document for [evidence of my teaching effectiveness](/Effectivness_of_Teaching.pdf).  
+I love teaching! I generally follow a student-centred teaching model (see the [ADAPT model](https://datascienceacademy.ncsu.edu/courses/course-model/) that I have co-developed at NCSU DSA) which emphasises student agency and project-based learning. I really love teaching methods courses and substantive courses. Please see [here](/Effectivness_of_Teaching.pdf) for evidence of my teaching effectiveness.
 
 ## Sociology 
 - SOC 202 Introduction to Sociology
 - SOC 205 Jobs and Work
 
-## Data Science
+## Data Science/Methods
 - DSA 295 Introduciton to Network Analysis
 - Peer Scholars Program - Social Network Analysis
 - Asynchronous - Social Network Analysis
+- Sociology Research Methods Lab
   
 ## Example Teaching Material
 ### Two Mode Networks
