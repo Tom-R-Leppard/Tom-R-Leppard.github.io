@@ -1,5 +1,5 @@
 # Sociologist, Postdoctoral Scholar, Data Scientist
-[About](https://Tom-R-Leppard.github.io/) | [Research](/research.md) | [Teaching](/teaching.md) | [Network Tutorials](/network_tutorials.md) | [CV](/cv.pdf)
+[About](https://Tom-R-Leppard.github.io/) | [Research](/research.md) | [Teaching](/teaching.md) | [Free Network Tutorials](/network_tutorials.md) | [CV](/cv.pdf)
 
 I'm studying how social inequalities impact people's ability to access and benefit from social connections in different areas like family, sports, music, and education. I look at both the concrete and more subtle resources people get through their relationships or their position in social networks. These resources can affect job opportunities and contribute to ongoing social inequalities.
 
