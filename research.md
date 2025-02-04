@@ -1,7 +1,7 @@
 [About](https://Tom-R-Leppard.github.io/) | [Research](/research.md) | [Teaching](/teaching.md) | [Network Tutorials](/network_tutorials.md) | [CV](/cv.pdf)
 
 # Research
-Research is a deep passion of mine, particularly in the areas of social inequality, social capital, and social networks. My work explores how spcoal capital, inequality, and networks influence opportunities and outcomes in various contexts. As someone interested in resources and networks, I love building scholarly communities. Much of my work is collaborative! Please refer to my [CV](/cv.pdf) for an updated overview of my research agenda. 
+My work explores how social capital, inequality, and networks influence opportunities and outcomes in various contexts. As someone interested in resources and networks, I love building scholarly communities, and much of my work is collaborative! I also thoroughly enjoy driving my solo research agenda. Please refer to my [CV](/cv.pdf) for an updated overview of my research agenda. 
 
 ## Adolescence and Social Capital 
 1. [Intersectional bonds: Delinquency, arrest, and changing family social capital during adolescence](https://onlinelibrary.wiley.com/doi/10.1111/jomf.13029)
