@@ -17,7 +17,7 @@ Here are some free tutorials that I wrote for my students and others interested 
 8. [Advanced Visualisation - Dynamic Networks](/Visualisations_Advanced_Dynamic.html)
    
 ## Analysing Network Data
-8. [People in Networks - Measures of Centrality] - COMMING SOON
+8. [People in Networks - Measures of Centrality](/People-in-Networks_Measures-of-Centrality.html)
 9. [Networks of People - Network Descriptives] - COMMING SOON
 10. [Exponential Random Graph Modes] - COMMING SOON
 11. [Community Detection](/Community-Detection-in-Networks.html)
