@@ -12,14 +12,13 @@ Here are some free tutorials that I wrote for my students and others interested 
 6. [Two Mode Networks from an Edgelist](/Harry-Potter_Two_Mode-Edgelists.html)
    
 ## Visualising Network Data
-6. [Basic Network Visualisation](/Visualisations_Basic.html)
-7. [Intermediate Network Visualisation](/Visualisations_intermediate.html)
-8. [Advanced Visualisation - Dynamic Networks](/Visualisations_Advanced_Dynamic.html)
+7. [Basic Network Visualisation](/Visualisations_Basic.html)
+8. [Intermediate Network Visualisation](/Visualisations_intermediate.html)
+9. [Advanced Visualisation - Dynamic Networks](/Visualisations_Advanced_Dynamic.html)
    
 ## Analysing Network Data
-8. [People in Networks - Measures of Centrality](/People-in-Networks_Measures-of-Centrality.html)
-9. [Networks of People - Network Descriptives] - COMMING SOON
-10. [Exponential Random Graph Modes] - COMMING SOON
-11. [Community Detection](/Community-Detection-in-Networks.html)
-12. [Duality in Networks](/Duality_Two-Mode-Network-Projection.html)
-
+10. [People in Networks - Measures of Centrality](/People-in-Networks_Measures-of-Centrality.html)
+11. [Networks of People - Network Descriptives] - COMMING SOON
+12. [Exponential Random Graph Modes] - COMMING SOON
+13. [Community Detection](/Community-Detection-in-Networks.html)
+14. [Duality in Networks](/Duality_Two-Mode-Network-Projection.html)
