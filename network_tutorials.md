@@ -15,10 +15,11 @@ Here are some free tutorials that I wrote for my students and others interested 
 7. [Basic Network Visualisation](/Visualisations_Basic.html)
 8. [Intermediate Network Visualisation](/Visualisations_intermediate.html)
 9. [Advanced Visualisation - Dynamic Networks](/Visualisations_Advanced_Dynamic.html)
+10. [Advanced Visualisation - Interactive Networks](/Visualisations_Advanced_Interactive.html)
    
 ## Analysing Network Data
-10. [People in Networks - Measures of Centrality](/People-in-Networks_Measures-of-Centrality.html)
-11. [Networks of People - Network Descriptives] - COMMING SOON
-12. [Exponential Random Graph Modes] - COMMING SOON
-13. [Community Detection](/Community-Detection-in-Networks.html)
-14. [Duality in Networks](/Duality_Two-Mode-Network-Projection.html)
+11. [People in Networks - Measures of Centrality](/People-in-Networks_Measures-of-Centrality.html)
+12. [Networks of People - Network Descriptives] - COMMING SOON
+13. [Exponential Random Graph Modes] - COMMING SOON
+14. [Community Detection](/Community-Detection-in-Networks.html)
+15. [Duality in Networks](/Duality_Two-Mode-Network-Projection.html)
