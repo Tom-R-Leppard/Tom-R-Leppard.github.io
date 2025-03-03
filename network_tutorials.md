@@ -8,7 +8,7 @@ Here are some free tutorials that I wrote for my students and others interested 
 2. [Cleaning Network Data - Trimming and Adding](/Cleaning-Network-Data.html)
 3. [Cleaning Network Data - Subgraphs](/Cleaning-Network-Data-2_Subgraphs.html)
 4. [Node and Edge Characteristics](/Node-and-Edge-Attributes.html)
-5. [Two Mode Networks](Harry-Potter_Two_Mode.html)
+5. [Two Mode Networks from an Adjacency Matrix](Harry-Potter_Two_Mode.html)
 6. [Two Mode Networks from an Edgelist](/Harry-Potter_Two_Mode-Edgelists.html)
    
 ## Visualising Network Data
