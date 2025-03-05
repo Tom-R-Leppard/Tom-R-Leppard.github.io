@@ -19,7 +19,7 @@ Here are some free tutorials that I wrote for my students and others interested 
    
 ## Analysing Network Data
 11. [People in Networks - Measures of Centrality](/People-in-Networks_Measures-of-Centrality.html)
-12. [Networks of People - Network Descriptives] - COMMING SOON
+12. [Networks of People - Network Descriptives](/Networks-of-People.html)
 13. [Exponential Random Graph Modes] - COMMING SOON
 14. [Community Detection](/Community-Detection-in-Networks.html)
 15. [Duality in Networks](/Duality_Two-Mode-Network-Projection.html)
