@@ -11,11 +11,9 @@ I ran some community detection on the networks. I present the modularity of the 
 
 ## Grime in 3D
 These are some 3D interactive networks from a few years of the genre. 
-<img src=/grime_2009_JS_RECIP.html alt="Alt Text" style="width: 100px; height: 100px;" />
-
-![Grime in 2009](/grime_2009_JS_RECIP.html)
-![Grime in 2014](/grime_2014_JS_RECIP.html)
-![Grime in 2015](/grime_2015_JS_RECIP.html)
+[Grime in 2009](/grime_2009_JS_RECIP.html)
+[Grime in 2014](/grime_2014_JS_RECIP.html)
+[Grime in 2015](/grime_2015_JS_RECIP.html)
 
 ## Grime Collaborations Overtime
 This is an ndtv network movie depicting the collaborations of Grime artists over the 22 year period I observed. 
