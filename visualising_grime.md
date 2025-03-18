@@ -7,12 +7,8 @@ For my dissertation, I studied the collaboraitons between Grime musicians. Grime
 Here are a selection of network descriptives that I have taken from each year of the networks. 
 
 ## Communities of Collaborators
-I ran some community detection Grime. I present the modularity of the networks taken over time and also a few years work of the networks depicting the communities I detected. 
-![2008](/Grime Visuals/Communities_GRIME_2008.png)
-
-## Communities of Listeners
-I used Spotifyr's "get_related_artists" function to obtain the artists that the listeners of these 122 artists also listen to. I then visualised this as network to observe where artsts are connected to related artists. I wanted to see if there are communities of artists within the genre who share listeners. 
-![Related Artists](/Grime Visuals/Related artists.png)
+I ran some community detection on collaborations and related artists. To get the related artists, I used Spotifyr's "get_related_artists" function to obtain the artists that the listeners of these 122 artists also listen to. I then visualised this as network to artsts are connected to related artists.  
+![2008](/Grime Visuals/Communities_GRIME_2008.png) ![Related Artists](/Grime Visuals/Related artists.png)
 
 ## Grime in 3D
 These are some 3D interactive networks from a few years of the genre. 
