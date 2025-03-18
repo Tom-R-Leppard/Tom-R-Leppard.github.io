@@ -1,4 +1,4 @@
-[About](https://Tom-R-Leppard.github.io/) | [Research](/research.md) | [Teaching](/teaching.md) | [Network Tutorials](/network_tutorials.md) | [CV](/cv.pdf)
+[About](https://Tom-R-Leppard.github.io/) | [Research](/research.md) | [Teaching](/teaching.md) | [Network Tutorials](/network_tutorials.md) | [CV](/cv.pdf) | [Visualising Grime](/visualising_grime.md)
 
 # Teaching
 I love teaching! I generally follow a student-centred teaching model (see the [ADAPT model](https://datascienceacademy.ncsu.edu/courses/course-model/) that I have co-developed at NCSU DSA) which emphasises student agency and project-based learning. I really love teaching methods courses and substantive courses. Please see [here](/Effectivness_of_Teaching.pdf) for evidence of my teaching effectiveness.
