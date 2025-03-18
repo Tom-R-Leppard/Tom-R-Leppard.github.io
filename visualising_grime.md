@@ -8,7 +8,7 @@ Here are a selection of network descriptives that I have taken from each year of
 
 ## Communities of Collaborators
 I ran some community detection on collaborations and related artists. To get the related artists, I used Spotifyr's "get_related_artists" function to obtain the artists that the listeners of these 122 artists also listen to. I then visualised this as network to artsts are connected to related artists.  
-![2008](/Grime Visuals/Communities_GRIME_2008.png) ![Related Artists](/Grime Visuals/Related artists.png)
+![2008](/Grime Visuals/Communities_GRIME_2008.png)![Related Artists](/Grime Visuals/Related artists.png)
 
 ## Grime in 3D
 These are some 3D interactive networks from a few years of the genre. 
