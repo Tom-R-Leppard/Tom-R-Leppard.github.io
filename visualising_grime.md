@@ -11,6 +11,7 @@ I ran some community detection on the networks. I present the modularity of the 
 
 ## Grime in 3D
 These are some 3D interactive networks from a few years of the genre. 
+
 [2015](/grime_2015_JS_RECIP.html)
 
 ## Grime Collaborations Overtime
