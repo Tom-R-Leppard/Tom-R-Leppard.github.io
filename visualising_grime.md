@@ -13,8 +13,8 @@ I ran some community detection Grime. I present the modularity of the networks t
 These are some 3D interactive networks from a few years of the genre. 
 
 [Grime in 2009](/grime_2009_JS_RECIP.html)  
-[Grime in 2014](/grime_2014_JS_RECIP.html) 
-[Grime in 2015](/grime_2015_JS_RECIP.html) 
+[Grime in 2014](/grime_2014_JS_RECIP.html)  
+[Grime in 2015](/grime_2015_JS_RECIP.html)  
 
 The colours of the nodes in these networks represent a unique measure of reciprocity I developed in my dissertation. Blue spheres represent "givers" — artists whose collaborations mostly appear on other artists' profiles, meaning they have more outward connections than inward. Green spheres represent "takers" — artists who receive more collaborations than they give, meaning they have more inward connections than outward. Purple spheres represent "reciprocators" — artists who give and receive collaborations in equal measure, maintaining a balanced exchange. Red spheres represent artists who have never collaborated with anyone in the network. 
 
