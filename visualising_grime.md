@@ -1,17 +1,15 @@
 # Visualising Grime
 [About](https://Tom-R-Leppard.github.io/) | [Research](/research.md) | [Teaching](/teaching.md) | [Network Tutorials](/network_tutorials.md) | [CV](/cv.pdf) | [Visualising Grime](/visualising_grime.md)
 
-For my dissertation, I studied the collaboraitons between Grime musicians. Grime is a UK-based rap genre that emerged from the east London reggae and Garage scene in the early 2000s. Broadly speaking, my dissertation investigated how network embeddedness is assciated with the career success of 122 Grime artists. I codded their collaborations on Spotify over a 22 year period (2001-2022). From this, I generated directed networks for each year. An outward connection represents artist A appearing on artist B's Spotify profile (working on B's songs). An inward connection represents B featuring on A's profile (featuring on their songs). Here is a small collection of various visualisations I have created to showcase some of my work on this genre of music. Some of the visualisations are interactive and will need to be opened as links. 
+For my dissertation, I studied the collaboraitons between Grime musicians. Grime is a UK-based rap genre that emerged from the east London reggae and Garage scene in the early 2000s. Broadly speaking, my dissertation investigated how network embeddedness is assciated with the career success of 122 Grime artists. I codded their collaborations with others in the sample on Spotify over a 22 year period (2001-2022). From this, I generated directed networks for each year. An outward connection represents artist A appearing on artist B's Spotify profile (working on B's songs). An inward connection represents B featuring on A's profile (featuring on their songs). Here is a small collection of various visualisations I have created to showcase some of my work on this genre of music. Some of the visualisations are interactive and will need to be opened as links. 
 
 ## Grime Networks Overtime 
-Here are a selection of network descriptives that I have taken from each year of the networks. 
+These line graphs illustrate the growth of Grime networks in terms of order (number of nodes) and size (number of edges). While there is a consistent increase in order, the size fluctuates more erratically, indicating a steady expansion of the genre itself. However, the data reveals a less predictable pattern in the number of collaborative connections between artists, suggesting that while the genre continues to grow, the nature of these collaborative relationships remains more variable.
 ![Size and Order](/Grime Visuals/GRIME_Cross_only_Size and Order.png)
-
 
 ## Communities of Collaborators
 I ran some community detection on collaborations and related artists. To get the related artists, I used Spotifyr's "get_related_artists" function to obtain the artists that the listeners of these 122 artists also listen to. I then visualised this as network to artsts are connected to related artists.  
 ![Grime communities side by Side](/Grime Visuals/Related Artists and Communities 2008 Side by side.png)
-
 
 ## Grime in 3D
 These are some 3D interactive networks from a few years of the genre. You will need to click the link. Then, feel free to click on, move, and scroll in or out of the visualisation. 
