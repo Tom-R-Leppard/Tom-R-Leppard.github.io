@@ -5,6 +5,8 @@ For my dissertation, I studied the collaboraitons between Grime musicians. Grime
 
 ## Grime Networks Overtime 
 Here are a selection of network descriptives that I have taken from each year of the networks. 
+![Size and Order](/Grime Visuals/GRIME_Cross_only_Size and Order.png)
+
 
 ## Communities of Collaborators
 I ran some community detection on collaborations and related artists. To get the related artists, I used Spotifyr's "get_related_artists" function to obtain the artists that the listeners of these 122 artists also listen to. I then visualised this as network to artsts are connected to related artists.  
