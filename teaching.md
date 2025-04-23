@@ -9,10 +9,10 @@ I love teaching! I generally follow a student-centred teaching model (see the [A
 
 ## Methods/Data Science
 - DSA 295 Introduciton to Network Analysis
+- SOC 300 ocial Research Methods (lab)
 - Peer Scholars Program - Social Network Analysis
 - Asynchronous - Social Network Analysis
-- Sociology Research Methods Lab
-  
+
 ## Example Teaching Material
 ### Two Mode Networks
 This is an activity I created using Harry Potter data. It is designed to teach students how to map two mode networks and projecting the duality between characters and groups. I collected the data from the [Harry Potter Wiki](https://harrypotter.fandom.com/wiki/Main_Page).
