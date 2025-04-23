@@ -9,7 +9,7 @@ I love teaching! I generally follow a student-centred teaching model (see the [A
 
 ## Methods/Data Science
 - DSA 295 Introduciton to Network Analysis
-- SOC 300 ocial Research Methods (lab)
+- SOC 300 Social Research Methods (lab)
 - Peer Scholars Program - Social Network Analysis
 - Asynchronous - Social Network Analysis
 
