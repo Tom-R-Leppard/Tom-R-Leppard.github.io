@@ -7,7 +7,7 @@ I love teaching! I generally follow a student-centred teaching model (see the [A
 - SOC 202 Introduction to Sociology
 - SOC 205 Jobs and Work
 
-## Data Science/Methods
+## Methods/Data Science
 - DSA 295 Introduciton to Network Analysis
 - Peer Scholars Program - Social Network Analysis
 - Asynchronous - Social Network Analysis
