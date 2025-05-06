@@ -25,5 +25,6 @@ My work explores how social capital, inequality, and networks influence opportun
 ## Papers in the Pipeline
 12. The Gender of Family Social Capital: Parental Investment into Adolescent Career Building
 13. Bonding Ties That Get Ahead: Family Social Capital and Early Career Outcomes.
-14. The Ties that Rhyme: Duality in Symbolic and Structural Networks of Grime Music.
-15. Collaborating with Competitors: Career Success Dilution Due to Over-affiliation
+14. Family Ties and Young Adult Career Goals: Does Family Social Capital Stretch into Emerging Adulthood?
+15. The Ties that Rhyme: Duality in Symbolic and Structural Networks of Grime Music.
+16. Peer Networks, Pedagogy, and Professional Identity
