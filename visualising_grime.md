@@ -19,4 +19,5 @@ This is an ndtv network movie depicting the collaborations of Grime artists over
 
 ## Grime Networks Overtime 
 These line graphs illustrate the growth of Grime networks in terms of order (number of nodes) and size (number of edges). While there is a consistent increase in order, the size fluctuates more erratically. These indicate a steady expansion of the genre itself but a more erratic pattern in the collaborative connections between artists. 
+
 ![Size and Order](/Grime Visuals/GRIME_Cross_only_Size and Order.png)
