@@ -12,17 +12,13 @@ I ran some community detection on collaborations and related artists. To get the
 ![Grime communities side by Side](/Grime Visuals/Related Artists and Communities 2008 Side by side.png)
 
 ## Grime in 3D
-These are some 3D interactive networks from a few years of the genre. You will need to click the link. Then, feel free to click on, move, and scroll in or out of the visualisation. 
+This is another interactive networks from a few years of the genre. Feel free to click on, move, and scroll in or out of the visualisation. 
 
-<iframe src="grime_2009_JS_RECIP.html" width="400" height="400"></iframe> <iframe src="grime_2015_JS_RECIP" width="400" height="400"></iframe>
+</iframe> <iframe src="grime_2015_JS_RECIP" width="300" height="300"></iframe>
+ 
 
-[Reciprocity in Grime - 2009](/grime_2009_JS_RECIP.html)  
-[Reciprocity in Grime - 2014](/grime_2014_JS_RECIP.html)  
-[Reciprocity in Grime - 2015](/grime_2015_JS_RECIP.html)  
-
-The colours of the nodes in these networks represent a unique measure of reciprocity I developed in my dissertation. Blue spheres represent "givers" — artists whose collaborations mostly appear on other artists' profiles, meaning they have more outward connections than inward. Green spheres represent "takers" — artists who receive more collaborations than they give, meaning they have more inward connections than outward. Purple spheres represent "reciprocators" — artists who give and receive collaborations in equal measure, maintaining a balanced exchange. Red spheres represent artists who have never collaborated with anyone in the network. 
+The colours of the nodes in this network represent a unique measure of reciprocity I developed in my dissertation. Blue spheres represent "givers" — artists whose collaborations mostly appear on other artists' profiles, meaning they have more outward connections than inward. Green spheres represent "takers" — artists who receive more collaborations than they give, meaning they have more inward connections than outward. Purple spheres represent "reciprocators" — artists who give and receive collaborations in equal measure, maintaining a balanced exchange. Red spheres represent artists who have never collaborated with anyone in the network. 
 
 ## Grime Collaborations Overtime
 This is an ndtv network movie depicting the collaborations of Grime artists over the 22 year period I observed. For this visual, I removed isolated artists from each year.You will need to click the link. Then press the play button on the bottom right. You can alter the speed at which the network chances by using te settings on the top right. 
-
-[Grime Movie - 2001-2022](/GRIME-Network_noISO.html)
+<iframe src="GRIME-Network_noISO.html" width="300" height="300"></iframe>
