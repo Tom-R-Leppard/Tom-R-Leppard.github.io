@@ -10,6 +10,7 @@ As someone interested in resources and networks, I love building scholarly commu
 2. [The Ties That Bond?: Social Capital in Families](https://www.elgaronline.com/edcollchap/book/9781802202373/book-part-9781802202373-26.xml)
 3. [Exploring Gendered Stereotypes: Sports Participation and Adolescent Closeness to Mothers](https://www.emerald.com/insight/content/doi/10.1108/S1476-285420230000019003/full/html)
 4. [Paternal Closeness in Adolescence: The Association of Sports and Gender](https://journals.humankinetics.com/view/journals/ssj/39/4/article-p401.xml)
+   
 ### Papers in the Pipeline
 5. Family Ties and Young Adult Career Goals: Does Family Social Capital Stretch into Emerging Adulthood?
 6. Bonding Ties That Get Ahead: Family Social Capital and Early Occupational Outcomes.
@@ -17,6 +18,7 @@ As someone interested in resources and networks, I love building scholarly commu
    
 ## Culture and Networks
 8. [Collaborating with Competitors: Exploring Network Mechanisms that Drive the Benefits of Collaboration in Music.](https://repository.lib.ncsu.edu/items/8da6b8ef-aeb7-4dfb-b602-3bff6228367b)
+   
 ### Papers in the Pipeline
 9. [Cultural Ties in American Sociology](https://osf.io/preprints/socarxiv/qvyj8)
 10. [Measuring Vogue in American Sociology (2011-2020)](https://arxiv.org/abs/2503.17843)
@@ -31,6 +33,7 @@ As someone interested in resources and networks, I love building scholarly commu
 
 ## Work and Education
 17. [Pandemic Job Separation and Psychological Distress: Modeling Chains of Adversity.](https://journals.sagepub.com/doi/10.1177/23294965231183420)
+    
 ### Papers in the Pipeline
 18. Online Project-Based Learning to Foster Students’ Career Choices in Data Science: A Longitudinal Case Study Using Sankey Visualization
 19. Peer Networks, Pedagogy, and Professional Identity
