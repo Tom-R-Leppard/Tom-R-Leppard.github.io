@@ -1,30 +1,38 @@
 # Research
 [About](https://Tom-R-Leppard.github.io/) | [Research](/research.md) | [Teaching](/teaching.md) | [Network Tutorials](/network_tutorials.md) | [CV](/cv.pdf) | [Visualising Grime](/visualising_grime.md)
 
-My work explores how social capital, inequality, and networks influence opportunities and outcomes in various contexts. As someone interested in resources and networks, I love building scholarly communities, and much of my work is collaborative! I also thoroughly enjoy driving my solo research agenda. Please refer to my [CV](/cv.pdf) for an updated overview of my research agenda. 
+My work explores how social capital, identity, and structural inequality shape life outcomes across youth, family, and cultural domains. Using quantitative and social network-based methods, I examine the intersections of inuqualites associated with race, gender, and class in institutions like sports, education, and the labor market. My work demonstrates that understanding people's social embeddedness is key in discerning how social inqualities endure.  My research is currently funded by the [National Science Foundation - 2222148](https://datascienceacademy.ncsu.edu/dsa-postdoc/). 
 
-## Adolescence and Social Capital 
+As someone interested in resources and networks, I love building scholarly communities, and much of my work is collaborative! I also thoroughly enjoy driving my solo research agenda. Please refer to my [CV](/cv.pdf) for an updated overview of my research agenda. Here is a selection of my published work and a few other projects I am working on.
+
+## Family Social Capital 
 1. [Intersectional bonds: Delinquency, arrest, and changing family social capital during adolescence](https://onlinelibrary.wiley.com/doi/10.1111/jomf.13029)
 2. [The Ties That Bond?: Social Capital in Families](https://www.elgaronline.com/edcollchap/book/9781802202373/book-part-9781802202373-26.xml)
 3. [Exploring Gendered Stereotypes: Sports Participation and Adolescent Closeness to Mothers](https://www.emerald.com/insight/content/doi/10.1108/S1476-285420230000019003/full/html)
 4. [Paternal Closeness in Adolescence: The Association of Sports and Gender](https://journals.humankinetics.com/view/journals/ssj/39/4/article-p401.xml)
+### Papers in the Pipeline
+5. Family Ties and Young Adult Career Goals: Does Family Social Capital Stretch into Emerging Adulthood?
+6. Bonding Ties That Get Ahead: Family Social Capital and Early Occupational Outcomes.
+7. The Gender of Family Social Capital: Parental Investment into Adolescent Career Building.
    
-## Collaboration and Networks
-5. [Collaborating with Competitors: Exploring Network Mechanisms that Drive the Benefits of Collaboration in Music.](https://repository.lib.ncsu.edu/items/8da6b8ef-aeb7-4dfb-b602-3bff6228367b)
-6. [Cultural Ties in American Sociology](https://osf.io/preprints/socarxiv/qvyj8)
+## Culture and Networks
+8. [Collaborating with Competitors: Exploring Network Mechanisms that Drive the Benefits of Collaboration in Music.](https://repository.lib.ncsu.edu/items/8da6b8ef-aeb7-4dfb-b602-3bff6228367b)
+### Papers in the Pipeline
+9. [Cultural Ties in American Sociology](https://osf.io/preprints/socarxiv/qvyj8)
+10. The Ties that Rhyme: Duality in Symbolic and Structural Networks of Grime Music.
+11. The Magic of Duality: Mapping Individuals and Groups Using Harry Potter Networks.
 
-## Sports
-7. [A Shame of Inches: Teams with Black Head Coaches are Penalized more in Division 1 College Football.](https://onlinelibrary.wiley.com/doi/10.1111/ssqu.13117)
-8. [Do Status Characteristic-Based Stereotypes Influence Opportunities in Monoracial Settings? The Case of the National Hockey League](https://journals.sagepub.com/doi/10.1177/21582440241269929)
-9. [Athlete activism and the role of personal and professional positionality: The case of Naomi Osaka](https://journals.sagepub.com/doi/10.1177/10126902211073907)
-10. The White House’s Response to Black Athletes’ Protests: Critically Analyzing Social Processes Between Leadership in Sports and Government.
+## Sports and Inequality
+12. [A Shame of Inches: Are Teams with Black Head Coaches More Heavily Penalized in Division 1 College Football?](https://onlinelibrary.wiley.com/doi/10.1111/ssqu.13117)
+13. [Do Status Characteristic-Based Stereotypes Influence Opportunities in Monoracial Settings? The Case of the National Hockey League](https://journals.sagepub.com/doi/10.1177/21582440241269929)
+14. [Athlete activism and the role of personal and professional positionality: The case of Naomi Osaka](https://journals.sagepub.com/doi/10.1177/10126902211073907)
+15. [The White House’s Response to Black Athletes’ Protests: Critically Analyzing Social Processes Between Leadership in Sports and Government](https://www.uvu.edu/slss/docs/jsl/jsl-v4-i1-2-2020_accessible.pdf)
 
-## Other Publications
-11. [Pandemic Job Separation and Psychological Distress: Modeling Chains of Adversity.](https://journals.sagepub.com/doi/10.1177/23294965231183420)
+## Work and Education
+16. [Pandemic Job Separation and Psychological Distress: Modeling Chains of Adversity.](https://journals.sagepub.com/doi/10.1177/23294965231183420)
+### Papers in the Pipeline
+17. Online Project-Based Learning to Foster Students’ Career Choices in Data Science: A Longitudinal Case Study Using Sankey Visualization
+18. Peer Networks, Pedagogy, and Professional Identity
 
-## Papers in the Pipeline
-12. The Gender of Family Social Capital: Parental Investment into Adolescent Career Building
-13. Bonding Ties That Get Ahead: Family Social Capital and Early Career Outcomes.
-14. Family Ties and Young Adult Career Goals: Does Family Social Capital Stretch into Emerging Adulthood?
-15. The Ties that Rhyme: Duality in Symbolic and Structural Networks of Grime Music.
-16. Peer Networks, Pedagogy, and Professional Identity
+
+
