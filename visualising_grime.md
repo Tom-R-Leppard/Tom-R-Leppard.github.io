@@ -14,6 +14,8 @@ I ran some community detection on collaborations and related artists. To get the
 ## Grime in 3D
 These are some 3D interactive networks from a few years of the genre. You will need to click the link. Then, feel free to click on, move, and scroll in or out of the visualisation. 
 
+<iframe src="grime_2009_JS_RECIP.html" width="800" height="600"></iframe>
+
 [Reciprocity in Grime - 2009](/grime_2009_JS_RECIP.html)  
 [Reciprocity in Grime - 2014](/grime_2014_JS_RECIP.html)  
 [Reciprocity in Grime - 2015](/grime_2015_JS_RECIP.html)  
