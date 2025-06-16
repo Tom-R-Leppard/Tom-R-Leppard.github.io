@@ -6,7 +6,7 @@ I'm studying how social inequalities impact people's ability to access and benef
 To investigate this, I draw on domain-specific theories pertaining to family social capital, criminal justice contact, adolescent delinquency, racial positional segregation in sports (stacking), competition in creative industries, and the leaky pipeline in STEM education. My research utilises a variety of data types such as social network, longitudinal survey, text, and process data.
 
 Check out my book: 
-![/asset/cover.png](https://tom-r-leppard.github.io/SP25_SNA_Book/)
+[![book cover](/asset/cover.png)]([https://example.com](https://tom-r-leppard.github.io/SP25_SNA_Book/))
 
 Let's connect: 
 - [X](https://x.com/LeppardTom)
