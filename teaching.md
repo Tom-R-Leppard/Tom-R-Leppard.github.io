@@ -3,7 +3,7 @@
 
 I love teaching! As a first-generation college student, I found the prospect of teaching at university daunting. However, over the last five years I have developed a passion for helping undergraduate and graduate students discover their interests and their talents. This passion is substantiated by the strongly positive feedback I have received from my students. Please see [HERE](/Teaching_effect.pdf) for evidence of my teaching effectiveness.
 
-I have taught courses across multiple disicplines and modalities. Those within sociology I have taught to undergraduate students while the methods and data science courses I have taught to undergraduate and graduate students. Here is a list of the courses that I have taught to-date. 
+I have taught courses across multiple disicplines and modalities. Those within sociology I have taught to undergraduate students while the methods and data science courses I have taught to undergraduate and graduate students. Here is a list of the courses that I have taught to-date. Also, check out my book: [Social Network Analysis: A Guide Using Principles of the ADAPT Model](https://tom-r-leppard.github.io/SP25_SNA_Book/)
 
 ## Sociology 
 - SOC 202 Introduction to Sociology
