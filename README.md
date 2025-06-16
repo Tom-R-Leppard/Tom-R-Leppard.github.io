@@ -9,7 +9,7 @@ Check out my book:
 
 
 <a href="https://tom-r-leppard.github.io/SP25_SNA_Book/">
-  <img src="/asset/cover.png" alt="Cover image" width="200">
+  <img src="/asset/cover.png" alt="Cover image" width="100">
 </a>
 
 Let's connect: 
