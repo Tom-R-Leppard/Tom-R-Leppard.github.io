@@ -5,7 +5,7 @@ I'm studying how social inequalities impact people's ability to access and benef
 
 To investigate this, I draw on domain-specific theories pertaining to family social capital, criminal justice contact, adolescent delinquency, racial positional segregation in sports (stacking), competition in creative industries, and the leaky pipeline in STEM education. My research utilises a variety of data types such as social network, longitudinal survey, text, and process data.
 
-New to social network analysis? Or New to Data vis? Check out my coursebooks: 
+New to social network analysis? Or new to Data vis? Check out my coursebooks: 
 
 <table>
   <tr>
