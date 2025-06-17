@@ -6,13 +6,13 @@ My work explores how social capital and structural inequality shape life outcome
 As someone interested in resources and networks, I love building scholarly communities, and much of my work is collaborative! I also thoroughly enjoy driving my solo research agenda. Please refer to my [CV](/cv.pdf) for an updated overview of my research agenda. Here is a selection of my published work and a few other projects I am working on.
 
 ## Family Social Capital 
-1. [Intersectional bonds: Delinquency, arrest, and changing family social capital during adolescence](https://onlinelibrary.wiley.com/doi/10.1111/jomf.13029)
-2. [The Ties That Bond?: Social Capital in Families](https://www.elgaronline.com/edcollchap/book/9781802202373/book-part-9781802202373-26.xml)
-3. [Exploring Gendered Stereotypes: Sports Participation and Adolescent Closeness to Mothers](https://www.emerald.com/insight/content/doi/10.1108/S1476-285420230000019003/full/html)
-4. [Paternal Closeness in Adolescence: The Association of Sports and Gender](https://journals.humankinetics.com/view/journals/ssj/39/4/article-p401.xml)
+1. [Family Ties and Young Adult Career Goals: Does Family Social Capital Stretch into Emerging Adulthood?](https://journals.sagepub.com/eprint/NZTFGYWIEKHFB8MDTXZG/full)
+2. [Intersectional bonds: Delinquency, arrest, and changing family social capital during adolescence](https://onlinelibrary.wiley.com/doi/10.1111/jomf.13029)
+3. [The Ties That Bond?: Social Capital in Families](https://www.elgaronline.com/edcollchap/book/9781802202373/book-part-9781802202373-26.xml)
+4. [Exploring Gendered Stereotypes: Sports Participation and Adolescent Closeness to Mothers](https://www.emerald.com/insight/content/doi/10.1108/S1476-285420230000019003/full/html)
+5. [Paternal Closeness in Adolescence: The Association of Sports and Gender](https://journals.humankinetics.com/view/journals/ssj/39/4/article-p401.xml)
    
 ### Papers in the Pipeline
-5. Family Ties and Young Adult Career Goals: Does Family Social Capital Stretch into Emerging Adulthood?
 6. Bonding Ties That Get Ahead: Family Social Capital and Early Occupational Outcomes.
 7. The Gender of Family Social Capital: Parental Investment into Adolescent Career Building.
    
@@ -36,7 +36,7 @@ As someone interested in resources and networks, I love building scholarly commu
     
 ### Papers in the Pipeline
 18. Online Project-Based Learning to Foster Students’ Career Choices in Data Science: A Longitudinal Case Study Using Sankey Visualization
-19. Peer Networks, Pedagogy, and Professional Identity
+19. Peer Networks, Pedagogy, and Professional Identity: Interdisciplinary Data Science
 
 
 
