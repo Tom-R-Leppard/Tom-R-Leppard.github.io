@@ -5,12 +5,23 @@ I'm studying how social inequalities impact people's ability to access and benef
 
 To investigate this, I draw on domain-specific theories pertaining to family social capital, criminal justice contact, adolescent delinquency, racial positional segregation in sports (stacking), competition in creative industries, and the leaky pipeline in STEM education. My research utilises a variety of data types such as social network, longitudinal survey, text, and process data.
 
-New to social network analysis? Check out my coursebook: 
+New to social network analysis? Or New to Data vis? Check out my coursebooks: 
 
+<table>
+  <tr>
+    <td>
+      <a href="https://tom-r-leppard.github.io/SP25_SNA_Book/">
+        <img src="/asset/cover.png" alt="Cover 1" width="150">
+      </a>
+    </td>
+    <td>
+      <a href="https://tom-r-leppard.github.io/Intro_to_vis/">
+        <img src="/asset/cover2.png" alt="Cover 2" width="150">
+      </a>
+    </td>
+  </tr>
+</table>
 
-<a href="https://tom-r-leppard.github.io/SP25_SNA_Book/">
-  <img src="/asset/cover.png" alt="Cover image" width="150">
-</a>
 
 Let's connect: 
 - [X](https://x.com/LeppardTom)
