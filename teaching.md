@@ -31,7 +31,7 @@ I have taught courses across multiple disicplines and modalities. Those within s
   </tr>
 </table>
 
-## Teaching Philosophy and Example Teaching Material
+## Teaching Philosophy and Example Activity
 As a teacher, I’m mindful of my role in either reinforcing or challenging the exclusion of diverse perspectives. Like in my research, I intentionally include multiple viewpoints in my teaching. For instance, in teaching sociological methods, I highlight foundational work by marginalized scholars like Du Bois, whose data visualizations remain influential. I also adapt my teaching to reflect local histories and diverse thought. After realizing I had overlooked local context in a course on the sociology of race while at NC State, I incorporated events like the Greensboro sit-ins, the Wilmington Massacre, and the Cherokee Nation’s removal. In doing so, students engaged more deeply with concepts like the Colour Line and the veil by connecting theory to local history.
 
 Furthermore, I beleive in teaching using fun, accesible methods. In fact, part of my work at the Data Science and AI Academy has been to develop a student-centred model for teaching data science across disicplines (more on [ADAPT here](https://datascienceacademy.ncsu.edu/courses/course-model/)). Part of this is to find relatable, even fun ways to teach complex concepts. For example, when I teach methods, I find or construct fun datasets to work with. Below is an example. 
