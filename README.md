@@ -1,9 +1,12 @@
 # Sociologist, Postdoctoral Scholar, Computational Social Scientist
 [About](https://Tom-R-Leppard.github.io/) | [Research](/research.md) | [Teaching](/teaching.md) | [Network Tutorials](/network_tutorials.md) | [CV](/cv.pdf) | [Visualising Grime](/visualising_grime.md)
 
-I'm studying how social inequalities impact people's ability to access and benefit from social connections in different areas like family, sports, music, and education. I look at both the concrete and more subtle resources people get through their relationships or their position in social networks. These resources can affect life opportunities (viz. career, education, relationships) and contribute to ongoing social inequalities.
+**I study how social structures shape opportunity.**
+My research focuses on the ways that individuals navigate systems of inequality through their relationships, group memberships, and positions in broader social networks. I’m especially interested in how domains like family, sport, music, and education structure access to resources — both material and symbolic — and how those resources impact trajectories throughout the life-course.
 
-To investigate this, I draw on domain-specific theories pertaining to family social capital, criminal justice contact, adolescent delinquency, racial positional segregation in sports (stacking), competition in creative industries, and the leaky pipeline in STEM education. My research utilises a variety of data types such as social network, longitudinal survey, text, and process data.
+Much of my work explores social capital: how ties to others can help or hinder outcomes like career attainment, educational goals, and psychological wellbeing. I also examine how social meaning is embedded in group boundaries and institutional rules — for example, in how athletes are racialized in sport, how artists collaborate in competitive cultural spaces, or how inequality is reproduced in elite fields.
+
+My research combines theory-driven inquiry with diverse methods, including network analysis, longitudinal surveys, text data, and visual and process-based techniques. Across projects, I aim to reveal how group dynamics and social ties reproduce — or resist — inequality. For example, my recent article in [Emerging Adulthood](https://journals.sagepub.com/eprint/NZTFGYWIEKHFB8MDTXZG/full) demonstrates how a relatively eassily-accesible form of social capital can have large benefits on a young person's career preparation. 
 
 New to social network analysis? Or new to Data vis? Check out my coursebooks: 
 
