@@ -8,7 +8,7 @@ A central thread in my work is the role of social capital: how ties to others fa
 
 These interests have generated a broad research agenda and a large network of collaborators. Across projects, I aim to reveal how group dynamics and social ties reproduce or resist inequality. For example, in my recent article in [Emerging Adulthood](https://journals.sagepub.com/eprint/NZTFGYWIEKHFB8MDTXZG/full) I demonstrate how a relatively eassily-accesible form of social capital - familial - can benefit a young person's career development. 
 
-I am also really interested in methods! My research combines theory-driven inquiry with methods to match the questions. I have built expertise in social network analysis, statistical inference and modelling, machine learning, and tex-based techniques. I collect data, use existing data and love working on new projects. Feel free to reach out.
+I am also really interested in methods! My research combines theory-driven questions matched with diverse methods. I have built expertise in social network analysis, statistical inference and modelling, machine learning, and tex-based techniques. I collect data, use existing data and love working on new projects. Feel free to reach out.
 
 New to social network analysis? Or new to Data vis? Check out my coursebooks: 
 
