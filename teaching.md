@@ -37,15 +37,15 @@ As a teacher, I’m mindful of my role in either reinforcing or challenging the 
 Furthermore, I beleive in teaching using fun, accesible methods. In fact, part of my work at the Data Science and AI Academy has been to develop a student-centred model for teaching data science across disicplines (more on [ADAPT here](https://datascienceacademy.ncsu.edu/courses/course-model/)). Part of this is to find relatable, even fun ways to teach complex concepts. For example, when I teach methods, I find or construct fun datasets to work with. Below is an example. 
 
 ### Two Mode Networks
-This is an activity I created using Harry Potter data to demonstrate sociological concepts of duality and methodological approaches to studying networks. It is designed to teach students how to map two mode networks and projecting the duality between individuals and groups. I collected the data from the [Harry Potter Wiki](https://harrypotter.fandom.com/wiki/Main_Page). 
+This is an activity I created using Harry Potter data to demonstrate how to measure the duality of individuals and groups using networks. Static versions of this content is available in my [TRAILS](https://trails.asanet.org/article/view/the-magic-of-duality-mapping) publication. Here, I provide interactive networks. The Interactivity provides students with a physical experience while learning about networks. 
 
-First, mapping characters' relationships to groups in the serries. 
-![Harry Potter Two Mode](/asset/HP_Two_Mode.png)
+First, students map Harry Potter characters' relationships to groups in the serries. 
+<iframe src="hp_3d.html" width="500" height="500"></iframe>
 
-Second, I have studnets take a look at the symbolic connections between students who share group affiliations. 
-![Projection 1: Characters](/asset/Projection1_Characters_groups_Walktrap.png)
+Second, studnets look at the symbolic connections between students who share group affiliations. 
+<iframe src="charact_3d.html" width="500" height="500"></iframe>
 
-Third, I have student stake a look at the symbolic connections between groups who share students. An obvious "good" and "bad" divide here!  
-![Projection 2: Groups](/asset/Projection2_Groups_Characters_Walktrap.png)
+Third, students look at the symbolic connections between groups who share students. (Hover over the node to see the group names). An obvious "good" and "bad" divide here!  
+<iframe src="groups_3d.html" width="500" height="500"></iframe>
 
 
