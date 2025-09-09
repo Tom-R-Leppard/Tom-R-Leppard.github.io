@@ -14,23 +14,6 @@ I have taught courses across multiple disicplines and modalities. Those within s
 - Peer Scholars Program in-person - Social Network Analysis
 - Peer Scholars Program -asynchronous - Social Network Analysis
 
-## Teaching Material
-
-<table>
-  <tr>
-    <td>
-      <a href="https://tom-r-leppard.github.io/SP25_SNA_Book/">
-        <img src="/asset/cover.png" alt="Cover 1" width="150">
-      </a>
-    </td>
-    <td>
-      <a href="https://tom-r-leppard.github.io/Intro_to_vis/">
-        <img src="/asset/cover2.png" alt="Cover 2" width="150">
-      </a>
-    </td>
-  </tr>
-</table>
-
 ## Teaching Philosophy and Example Activity
 As a teacher, I’m mindful of my role in either reinforcing or challenging the exclusion of diverse perspectives. Like in my research, I intentionally include multiple viewpoints in my teaching. For instance, in teaching sociological methods, I highlight foundational work by marginalized scholars like Du Bois, whose data visualizations remain influential. I also adapt my teaching to reflect local histories and diverse thought. After realizing I had overlooked local context in a course on the sociology of race while at NC State, I incorporated events like the Greensboro sit-ins, the Wilmington Massacre, and the Cherokee Nation’s removal. In doing so, students engaged more deeply with concepts like the Colour Line and the veil by connecting theory to local history.
 
@@ -48,4 +31,19 @@ Second, studnets look at the symbolic connections between students who share gro
 Third, students look at the symbolic connections between groups who share students. (Hover over the node to see the group names). An obvious "good" and "bad" divide here!  
 <iframe src="groups_3d.html" width="500" height="300"></iframe>
 
+## Further Open-source Teaching Material
 
+<table>
+  <tr>
+    <td>
+      <a href="https://tom-r-leppard.github.io/SP25_SNA_Book/">
+        <img src="/asset/cover.png" alt="Cover 1" width="150">
+      </a>
+    </td>
+    <td>
+      <a href="https://tom-r-leppard.github.io/Intro_to_vis/">
+        <img src="/asset/cover2.png" alt="Cover 2" width="150">
+      </a>
+    </td>
+  </tr>
+</table>
