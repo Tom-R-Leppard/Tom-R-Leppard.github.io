@@ -25,12 +25,10 @@ This is an activity I created using Harry Potter data to demonstrate how to meas
 First, students map Harry Potter characters' relationships to groups in the serries. 
 <iframe src="hp_3d.html" width="500" height="300"></iframe>
 
-Second, studnets look at the symbolic connections between students who share group affiliations. 
-<iframe src="charact_3d.html" width="500" height="300"></iframe>
-
-Third, students look at the symbolic connections between groups who share students. (Hover over the node to see the group names). An obvious "good" and "bad" divide here!  
+Second, students look at the symbolic connections between groups who share students. (Hover over the node to see the group names). An obvious "good" and "bad" divide here!  
 <iframe src="groups_3d.html" width="500" height="300"></iframe>
 
+Students also examine the symbolic connections between characters based on mutual group affiliation. Through community detection they discuss the latent communities of individuals and groups that are symbolically connected through dual mutual affiliation or shared affiliates. 
 ## Further Open-source Teaching Material
 
 <table>
