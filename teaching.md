@@ -22,7 +22,7 @@ Furthermore, I beleive in teaching using fun, accesible methods. In fact, part o
 ### Two Mode Networks
 This is an activity I created using Harry Potter data to demonstrate how to measure the duality of individuals and groups using networks. Static versions of this content is available in my [TRAILS](https://trails.asanet.org/article/view/the-magic-of-duality-mapping) publication. Here, I provide interactive networks. The Interactivity provides students with a physical experience while learning about networks. 
 
-First, students map Harry Potter characters' relationships to groups in the serries. 
+First, students map Harry Potter characters' relationships to groups in the serries (click to move and scroll in and out). 
 <iframe src="hp_3d.html" width="500" height="300"></iframe>
 
 Second, students look at the symbolic connections between groups who share students. (Hover over the node to see the group names). An obvious "good" and "bad" divide here!  
