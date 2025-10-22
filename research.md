@@ -36,8 +36,8 @@ As someone interested in resources and networks, I love building scholarly commu
 20. [The White House’s Response to Black Athletes’ Protests: Critically Analyzing Social Processes Between Leadership in Sports and Government](https://www.uvu.edu/slss/docs/jsl/jsl-v4-i1-2-2020_accessible.pdf)
 
 ## Work and Education
-21. [Pandemic Job Separation and Psychological Distress: Modeling Chains of Adversity.](https://journals.sagepub.com/doi/10.1177/23294965231183420)
+21. [Pandemic Job Separation and Psychological Distress: Modeling Chains of Adversity](https://journals.sagepub.com/doi/10.1177/23294965231183420)
+22. [Online project-based learning to foster students’ course choices in data science: a longitudinal case study using Sankey visualization](https://educationaltechnologyjournal.springeropen.com/articles/10.1186/s41239-025-00560-y)
     
 ### Papers in the Pipeline
-22. Online Project-Based Learning to Foster Students’ Career Choices in Data Science: A Longitudinal Case Study Using Sankey Visualization
 23. Peer Networks, Pedagogy, and Professional Identity: Interdisciplinary Data Science
