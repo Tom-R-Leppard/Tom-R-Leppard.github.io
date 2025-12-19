@@ -6,26 +6,27 @@ My work explores how social capital and structural inequality shape life outcome
 As someone interested in resources and networks, I love building scholarly communities, and much of my work is collaborative! I also thoroughly enjoy driving my solo research agenda. Please refer to my [CV](/cv.pdf) for an updated overview of my work. Here is a selection of my published work and a few other projects I am currently working on.
 
 ## Family Social Capital 
-1. [Family Ties and Young Adult Career Goals: Does Family Social Capital Stretch into Emerging Adulthood?](https://journals.sagepub.com/eprint/NZTFGYWIEKHFB8MDTXZG/full)
-2. [Intersectional bonds: Delinquency, arrest, and changing family social capital during adolescence](https://onlinelibrary.wiley.com/doi/10.1111/jomf.13029)
-3. [The Ties That Bond?: Social Capital in Families](https://www.elgaronline.com/edcollchap/book/9781802202373/book-part-9781802202373-26.xml)
-4. [Exploring Gendered Stereotypes: Sports Participation and Adolescent Closeness to Mothers](https://www.emerald.com/insight/content/doi/10.1108/S1476-285420230000019003/full/html)
-5. [Paternal Closeness in Adolescence: The Association of Sports and Gender](https://journals.humankinetics.com/view/journals/ssj/39/4/article-p401.xml)
+1. Bonding Ties That Get Ahead: Family Social Capital and Early Occupational Outcomes
+2. [Family Ties and Young Adult Career Goals: Does Family Social Capital Stretch into Emerging Adulthood?](https://journals.sagepub.com/eprint/NZTFGYWIEKHFB8MDTXZG/full)
+3. [Intersectional bonds: Delinquency, arrest, and changing family social capital during adolescence](https://onlinelibrary.wiley.com/doi/10.1111/jomf.13029)
+4. [The Ties That Bond?: Social Capital in Families](https://www.elgaronline.com/edcollchap/book/9781802202373/book-part-9781802202373-26.xml)
+5. [Exploring Gendered Stereotypes: Sports Participation and Adolescent Closeness to Mothers](https://www.emerald.com/insight/content/doi/10.1108/S1476-285420230000019003/full/html)
+6. [Paternal Closeness in Adolescence: The Association of Sports and Gender](https://journals.humankinetics.com/view/journals/ssj/39/4/article-p401.xml)
    
 ### Papers in the Pipeline
-6. Bonding Ties That Get Ahead: Family Social Capital and Early Occupational Outcomes.
-7. The Gender of Family Social Capital: Parental Investment into Adolescent Career Building.
+7. The Gender of Family Social Capital: Parental Investment into Adolescent Career Building
+8. The Gender of Family Social Capital: Exploring How Gendered Parenting Norms Influence Young Adult Access to Parental Family Social Capital
+9. Mapping the Landscape of Adolescent Informal Mentoring Experience
    
 ## Culture and Networks
 8. [Collaborating with Competitors: Exploring Network Mechanisms that Drive the Benefits of Collaboration in Music.](https://repository.lib.ncsu.edu/items/8da6b8ef-aeb7-4dfb-b602-3bff6228367b)
 9. [The Magic of Duality: Mapping Individuals and Groups Using Harry Potter Networks.](https://trails.asanet.org/article/view/the-magic-of-duality-mapping)
    
 ### Papers in the Pipeline
-10. The Ties that Rhyme: Duality in Symbolic and Structural Networks of Grime Music.
-11. From Self to Scene: Measuring Simmelian Synthesis between Individuals and Groups in UK Grime.
+10. The Ties that Rhyme: Duality in Symbolic and Structural Networks of Grime Music
+11. From Self to Scene: Measuring Simmelian Synthesis between Individuals and Groups in UK Grime
 12. “Culture Vultures” and Pagans”: Measuring Culture and Networks of Grime Overtime
-13. Collaborating with Competitors: Career Success Dilution Due to Over-affiliation.
-14. Grime Movers: Musical Field Effects of Collaboration with Genre Originators.
+14. Grime Movers: Musical Field Effects of Collaboration with Genre Originators
 15. [Cultural Ties in American Sociology](https://osf.io/preprints/socarxiv/qvyj8)
 16. [Measuring Vogue in American Sociology (2011-2020)](https://arxiv.org/abs/2503.17843)
 
