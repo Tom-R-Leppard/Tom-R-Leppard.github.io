@@ -6,7 +6,7 @@ My work explores how social capital and structural inequality shape life outcome
 As someone interested in resources and networks, I love building scholarly communities, and much of my work is collaborative! I also thoroughly enjoy driving my solo research agenda. Please refer to my [CV](/cv.pdf) for an updated overview of my work. Here is a selection of my published work and a few other projects I am currently working on.
 
 ## Family Social Capital 
-1. Bonding Ties That Get Ahead: Family Social Capital and Early Occupational Outcomes
+1. [Bonding Ties That Get Ahead: Family Social Capital and Early Occupational Outcomes](https://www.tandfonline.com/doi/abs/10.1080/13676261.2025.2603380)
 2. [Family Ties and Young Adult Career Goals: Does Family Social Capital Stretch into Emerging Adulthood?](https://journals.sagepub.com/eprint/NZTFGYWIEKHFB8MDTXZG/full)
 3. [Intersectional bonds: Delinquency, arrest, and changing family social capital during adolescence](https://onlinelibrary.wiley.com/doi/10.1111/jomf.13029)
 4. [The Ties That Bond?: Social Capital in Families](https://www.elgaronline.com/edcollchap/book/9781802202373/book-part-9781802202373-26.xml)
