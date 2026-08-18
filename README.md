@@ -1,4 +1,4 @@
-# Sociologist, Postdoctoral Scholar, Computational Social Scientist
+# Assistant Professor of Sociology | Computational Social Scientist
 [About](https://Tom-R-Leppard.github.io/) | [Research](/research.md) | [Teaching](/teaching.md) | [Network Tutorials](/network_tutorials.md) | [CV](/cv.pdf) | [Visualising Grime](/visualising_grime.md)
 
 **I study social structures, resources, and inequalities.**
