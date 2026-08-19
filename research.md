@@ -19,13 +19,13 @@ As someone interested in resources and networks, I love building scholarly commu
 9. Mapping the Landscape of Adolescent Informal Mentoring Experience
    
 ## Culture and Networks
-8. [Collaborating with Competitors: Exploring Network Mechanisms that Drive the Benefits of Collaboration in Music.](https://repository.lib.ncsu.edu/items/8da6b8ef-aeb7-4dfb-b602-3bff6228367b)
-9. [The Magic of Duality: Mapping Individuals and Groups Using Harry Potter Networks.](https://trails.asanet.org/article/view/the-magic-of-duality-mapping)
+[8. The Ties that Rhyme: Duality in Symbolic and Structural Networks of Grime Music](https://onlinelibrary.wiley.com/doi/10.1111/1468-4446.70087)
+9. [“Culture Vultures” and Pagans”: Measuring Culture and Networks of Grime Overtime](https://static1.squarespace.com/static/60d07432701da4034526ed38/t/6a722d4674fffd07158b0ada/1785867591087/Culture+Vultures_TL.pdf)
+9. [Collaborating with Competitors: Exploring Network Mechanisms that Drive the Benefits of Collaboration in Music.](https://repository.lib.ncsu.edu/items/8da6b8ef-aeb7-4dfb-b602-3bff6228367b)
+10. [The Magic of Duality: Mapping Individuals and Groups Using Harry Potter Networks.](https://trails.asanet.org/article/view/the-magic-of-duality-mapping)
    
 ### Papers in the Pipeline
-10. The Ties that Rhyme: Duality in Symbolic and Structural Networks of Grime Music
 11. From Self to Scene: Measuring Simmelian Synthesis between Individuals and Groups in UK Grime
-12. “Culture Vultures” and Pagans”: Measuring Culture and Networks of Grime Overtime
 14. Grime Movers: Musical Field Effects of Collaboration with Genre Originators
 15. [Cultural Ties in American Sociology](https://osf.io/preprints/socarxiv/qvyj8)
 16. [Measuring Vogue in American Sociology (2011-2020)](https://arxiv.org/abs/2503.17843)
