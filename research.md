@@ -19,26 +19,26 @@ As someone interested in resources and networks, I love building scholarly commu
 9. Mapping the Landscape of Adolescent Informal Mentoring Experience
    
 ## Culture and Networks
-[8. The Ties that Rhyme: Duality in Symbolic and Structural Networks of Grime Music](https://onlinelibrary.wiley.com/doi/10.1111/1468-4446.70087)
-9. [“Culture Vultures” and Pagans”: Measuring Culture and Networks of Grime Overtime](https://static1.squarespace.com/static/60d07432701da4034526ed38/t/6a722d4674fffd07158b0ada/1785867591087/Culture+Vultures_TL.pdf)
-9. [Collaborating with Competitors: Exploring Network Mechanisms that Drive the Benefits of Collaboration in Music.](https://repository.lib.ncsu.edu/items/8da6b8ef-aeb7-4dfb-b602-3bff6228367b)
-10. [The Magic of Duality: Mapping Individuals and Groups Using Harry Potter Networks.](https://trails.asanet.org/article/view/the-magic-of-duality-mapping)
+10. [The Ties that Rhyme: Duality in Symbolic and Structural Networks of Grime Music](https://onlinelibrary.wiley.com/doi/10.1111/1468-4446.70087)
+11. [“Culture Vultures” and Pagans”: Measuring Culture and Networks of Grime Overtime](https://static1.squarespace.com/static/60d07432701da4034526ed38/t/6a722d4674fffd07158b0ada/1785867591087/Culture+Vultures_TL.pdf)
+12. [Collaborating with Competitors: Exploring Network Mechanisms that Drive the Benefits of Collaboration in Music.](https://repository.lib.ncsu.edu/items/8da6b8ef-aeb7-4dfb-b602-3bff6228367b)
+13. [The Magic of Duality: Mapping Individuals and Groups Using Harry Potter Networks.](https://trails.asanet.org/article/view/the-magic-of-duality-mapping)
    
 ### Papers in the Pipeline
-11. From Self to Scene: Measuring Simmelian Synthesis between Individuals and Groups in UK Grime
-14. Grime Movers: Musical Field Effects of Collaboration with Genre Originators
-15. [Cultural Ties in American Sociology](https://osf.io/preprints/socarxiv/qvyj8)
-16. [Measuring Vogue in American Sociology (2011-2020)](https://arxiv.org/abs/2503.17843)
+14. From Self to Scene: Measuring Simmelian Synthesis between Individuals and Groups in UK Grime
+15. Grime Movers: Musical Field Effects of Collaboration with Genre Originators
+16. [Cultural Ties in American Sociology](https://osf.io/preprints/socarxiv/qvyj8)
+17. [Measuring Vogue in American Sociology (2011-2020)](https://arxiv.org/abs/2503.17843)
 
 ## Sports and Inequality
-17. [Athlete activism and the role of personal and professional positionality: The case of Naomi Osaka](https://journals.sagepub.com/doi/10.1177/10126902211073907)
-18. [A Shame of Inches: Are Teams with Black Head Coaches More Heavily Penalized in Division 1 College Football?](https://onlinelibrary.wiley.com/doi/10.1111/ssqu.13117)
-19. [Do Status Characteristic-Based Stereotypes Influence Opportunities in Monoracial Settings? The Case of the National Hockey League](https://journals.sagepub.com/doi/10.1177/21582440241269929)
-20. [The White House’s Response to Black Athletes’ Protests: Critically Analyzing Social Processes Between Leadership in Sports and Government](https://www.uvu.edu/slss/docs/jsl/jsl-v4-i1-2-2020_accessible.pdf)
+18. [Athlete activism and the role of personal and professional positionality: The case of Naomi Osaka](https://journals.sagepub.com/doi/10.1177/10126902211073907)
+19. [A Shame of Inches: Are Teams with Black Head Coaches More Heavily Penalized in Division 1 College Football?](https://onlinelibrary.wiley.com/doi/10.1111/ssqu.13117)
+20. [Do Status Characteristic-Based Stereotypes Influence Opportunities in Monoracial Settings? The Case of the National Hockey League](https://journals.sagepub.com/doi/10.1177/21582440241269929)
+21. [The White House’s Response to Black Athletes’ Protests: Critically Analyzing Social Processes Between Leadership in Sports and Government](https://www.uvu.edu/slss/docs/jsl/jsl-v4-i1-2-2020_accessible.pdf)
 
 ## Work and Education
-21. [Pandemic Job Separation and Psychological Distress: Modeling Chains of Adversity](https://journals.sagepub.com/doi/10.1177/23294965231183420)
-22. [Online project-based learning to foster students’ course choices in data science: a longitudinal case study using Sankey visualization](https://educationaltechnologyjournal.springeropen.com/articles/10.1186/s41239-025-00560-y)
+22. [Pandemic Job Separation and Psychological Distress: Modeling Chains of Adversity](https://journals.sagepub.com/doi/10.1177/23294965231183420)
+23. [Online project-based learning to foster students’ course choices in data science: a longitudinal case study using Sankey visualization](https://educationaltechnologyjournal.springeropen.com/articles/10.1186/s41239-025-00560-y)
     
 ### Papers in the Pipeline
-23. Peer Networks, Pedagogy, and Professional Identity: Interdisciplinary Data Science
+24. Peer Networks, Pedagogy, and Professional Identity: Interdisciplinary Data Science
