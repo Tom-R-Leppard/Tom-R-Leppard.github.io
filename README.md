@@ -28,4 +28,4 @@ Let's connect:
 - [X](https://x.com/LeppardTom)
 - [LinkedIn](https://www.linkedin.com/in/tom-r-leppard-phd-a69b5b106/)
 - [Google Scholar](https://scholar.google.com/citations?user=VFI_6lAAAAAJ&hl=en&oi=ao)
-- trleppar@ncsu.edu
+- tleppard@fau.edu
